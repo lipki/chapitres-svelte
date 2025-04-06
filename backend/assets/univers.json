@@ -1,0 +1,62 @@
+{
+  "neutre": {
+    "words": [
+      "faiblesse",
+      "secret",
+      "mensonge",
+      "conflit",
+      "invention"
+    ]
+  },
+  "postapocalyptic": {
+    "title": "Environnements Post-Apocalyptiques",
+    "themes": {
+      "undead": {
+        "title": "Une invasion de mort-vivants",
+        "pitch": "Ici, il y a un pitch"
+      },
+      "cataclysm": {
+        "title": "Un cataclysme naturel",
+        "pitch": "Les signes étaient partout, mais nous les avons ignorés. \n Il y a %1, une série de catastrophes naturelles frappa le monde. La population mondiale fut décimée. \n Nous avons rassemblé %2 Personnes et avons crée ensemble une communauté dans %3."
+      },
+      "nuclear": {
+        "title": "Une catastrophe nucléaire",
+        "pitch": "Ici, il y a un pitch"
+      },
+      "alien": {
+        "title": "Un contact extraterrestre",
+        "pitch": "Il y a %1, des entités extra-terrestres apparurent dans le ciel et obscurcirent le soleil. \n Sans rien savoir d'eux, les gouvernements du monde entier leur déclarèrent la guerre. Leur réplique, d'une violence inouîe, a détruit une grande partie de l'humanité. \n Nous avons rassemblé %2 personnes et avons créé ensemble une communauté dans %3."
+      }
+    },
+    "words": [
+      "chaos",
+      "animal"
+    ]
+  },
+  "Superpowers": {
+    "title": "Dimension des personnes extraordinaires",
+    "themes": {
+      "city": {
+        "title": "La défense de votre ville",
+        "pitch": "Les gyrophares retentissent au loin. \n Les malfrats ont encore frappés dans la ville de %1, en commettant %2. \n En tant que Super Héros et Super héroine de l'équipe %3, nous devons faire régner la justice."
+      },
+      "world": {
+        "title": "La protection de votre monde de la galaxie",
+        "pitch": "Ici, il y a un pitch"
+      },
+      "school": {
+        "title": "L’école des personnes extraordinaires",
+        "pitch": "Ici, il y a un pitch"
+      },
+      "brotherhood": {
+        "title": "La confrérie du mal",
+        "pitch": "Ici, il y a un pitch"
+      }
+    },
+    "words": [
+      "esquiver",
+      "vision",
+      "entraver"
+    ]
+  }
+}
